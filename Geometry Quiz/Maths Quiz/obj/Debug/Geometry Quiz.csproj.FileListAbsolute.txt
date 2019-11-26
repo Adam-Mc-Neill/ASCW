@@ -1,0 +1,48 @@
+D:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.exe.config
+E:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.exe.config
+D:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.exe
+D:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.pdb
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Geometry Quiz.csprojResolveAssemblyReference.cache
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.Properties.Resources.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Geometry Quiz.csproj.GenerateResource.Cache
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.exe
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.pdb
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmLoadingScreen.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmSplashScreen.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmLogIn.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion1.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmMainMenu.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion2.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.exe
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.pdb
+E:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.exe
+E:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.pdb
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Geometry Quiz.csprojResolveAssemblyReference.cache
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmLoadingScreen.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmLogIn.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmMainMenu.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion1.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion2.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmSplashScreen.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.Properties.Resources.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Geometry Quiz.csproj.GenerateResource.Cache
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion3.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion4.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmSignUp.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion3.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion4.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmSignUp.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion5.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmQuestion5.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmResultScreen.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmResultScreen.resources
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmHighScores.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths_Quiz.frmHighScores.resources
+E:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.exe.manifest
+E:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.application
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.exe.manifest
+E:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.application
+D:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.exe.manifest
+D:\AS Coursework\Geometry Quiz\Maths Quiz\bin\Debug\Maths Quiz.application
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.exe.manifest
+D:\AS Coursework\Geometry Quiz\Maths Quiz\obj\Debug\Maths Quiz.application

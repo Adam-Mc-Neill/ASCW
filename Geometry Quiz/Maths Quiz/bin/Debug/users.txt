@@ -1,0 +1,7 @@
+user~password
+adam~cool
+Example~password
+
+Mitt~football333
+Crill~Pass
+Example2~Cool
